@@ -17,7 +17,6 @@ class BaseController {
     }
 
     public function index() {
-        $query = $this->pdo->select()->from('pma__userconfig')->where('username', '=', 'root');
-        var_dump($query->execute()->fetch());
+        return $this->view('index');
     }
 }
