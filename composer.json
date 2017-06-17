@@ -1,0 +1,7 @@
+{
+    "require": {
+        "hassankhan/config": "^0.10.0",
+        "duncan3dc/blade": "^3.4",
+        "slim/pdo": "^1.10"
+    }
+}
