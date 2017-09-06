@@ -1,4 +1,2 @@
 vendor/
 .idea/
-/test.php
-/app/controller/TestController.php
