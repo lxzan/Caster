@@ -1,7 +1,8 @@
 {
     "require": {
         "duncan3dc/blade": "^3.4",
-        "larapack/dd": "^1.1"
+        "larapack/dd": "^1.1",
+        "predis/predis": "^1.1"
     },
     "autoload": {
         "psr-4": {

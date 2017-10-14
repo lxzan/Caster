@@ -1,2 +1,5 @@
 vendor/
 .idea/
+runtime/
+config/database.php
+config/common.php
